@@ -1,4 +1,4 @@
-package com.zatyware.anthropologie;
+package com.zatyware.advhumanity;
 
 import java.awt.Font;
 

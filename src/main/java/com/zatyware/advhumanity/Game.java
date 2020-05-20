@@ -1,4 +1,4 @@
-package com.zatyware.anthropologie;
+package com.zatyware.advhumanity;
 
 import static org.lwjgl.glfw.GLFW.GLFW_KEY_A;
 import static org.lwjgl.glfw.GLFW.GLFW_KEY_D;
